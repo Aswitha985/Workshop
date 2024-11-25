@@ -1,2 +1,2 @@
 # Workshop
-a java program in devops
+A DEVOPS WORKSHOP ON JAVA
